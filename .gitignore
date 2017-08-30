@@ -60,8 +60,12 @@
 # Delphi history and backups
 __history/
 __recovery/
-using_udp/Win32/Debug/
-using_udp/Win64/Debug/
+example/using_udp/Win32/Debug/
+example/using_udp/Win64/Debug/
+example/using_comport/Win32/Debug/
+example/using_comport/Win64/Debug/
+SDK/dll_udp/Win32/Debug/
+SDK/dll_udp/Win64/Debug/
 *.~*
 
 # Castalia statistics file (since XE7 Castalia is distributed with Delphi)
