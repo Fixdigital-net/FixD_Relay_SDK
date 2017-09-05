@@ -66,6 +66,10 @@ example/using_comport/Win32/Debug/
 example/using_comport/Win64/Debug/
 SDK/dll_udp/Win32/Debug/
 SDK/dll_udp/Win64/Debug/
+SDK/Win32/Debug/
+SDK/Win64/Debug/
+test/
+
 *.~*
 
 # Castalia statistics file (since XE7 Castalia is distributed with Delphi)
